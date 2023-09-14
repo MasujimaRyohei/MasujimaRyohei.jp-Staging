@@ -17,8 +17,7 @@ export default function ParcaSilkyRunwayReel2021() {
               </div>
               <p>
                 レクレドールコレクション2021に出場したブランド『ParcaSilky』のランウェイ用のリールを作成しました。
-                2021.11.14. fashion show. Les Clefs
-                d'orCollection(レクコレ)2021aw in 原宿 long
+                2021.11.14. fashion show. Les Clefs d'orCollection(レクコレ)2021aw in 原宿 long
                 ver.の映像は個展にて放映。 model ➸ akino &apos; ..zzZ{" "}
                 <a href="https://twitter.com/ak_parcasilky">akino Twitter</a>
                 <a href="https://twitter.com/nemuri___zzzzzz">..zzZ Twitter</a>
